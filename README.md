@@ -1,2 +1,2 @@
-# Git-in-my-project
+# Git-Html-project
 This is a repository for python projects.
